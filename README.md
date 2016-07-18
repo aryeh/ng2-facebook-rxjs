@@ -1,5 +1,9 @@
 # ng2-facebook-rxjs
 
+This module enables you to use the Facebook JS SDK through Rx Observables in-line with the rest of your Angular 2 project.
+  
+ 
+
 ### Quick start
 
 1. Install
