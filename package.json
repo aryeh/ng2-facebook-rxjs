@@ -1,6 +1,6 @@
 {
   "name": "ng2-facebook-rxjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular 2 Facebook API using RxJS",
   "main": "dist/index.js",
   "typings": "dist/facebook.service.d.ts",
@@ -24,8 +24,7 @@
     "url": "https://github.com/aryeh/ng2-facebook-rxjs/issues"
   },
   "homepage": "https://github.com/aryeh/ng2-facebook-rxjs#readme",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "typescript": "^1.8.10",
     "typings": "^1.3.1",
